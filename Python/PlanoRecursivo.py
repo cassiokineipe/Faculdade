@@ -1,6 +1,6 @@
 
 # Código base que usa recurcividade para printar uma mensagem que não pode ser lida pelo codigo 
-# gado dmais
+
 
 def menssagem(lista,cont,codigo,dia):
 
